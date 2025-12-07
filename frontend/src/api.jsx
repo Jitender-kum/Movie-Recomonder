@@ -51,7 +51,7 @@ export const fetchMoviesByMood = async (mood) => {
   }
 };
 
-const BACKEND_URL = 'https://movie-recomonder.onrender.com';
+const BACKEND_URL = 'https://movie-recomonder.onrender.com/api/users';
 
 // Register Function
 export const registerUser = async (userData) => {
