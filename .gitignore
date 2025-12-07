@@ -1,0 +1,11 @@
+# Dependencies (Ye upload nahi honi chahiye)
+node_modules/
+*/node_modules/
+
+# Environment Variables (Passwords chupane ke liye)
+.env
+*/.env
+
+# Mac/Windows junk files
+.DS_Store
+thumbs.db
